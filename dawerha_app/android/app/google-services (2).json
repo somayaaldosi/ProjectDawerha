@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805866613344",
+    "project_id": "dawerha-app",
+    "storage_bucket": "dawerha-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805866613344:android:e206a73e06ae46afe5f105",
+        "android_client_info": {
+          "package_name": "com.example.dawerha_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805866613344-ap485o9ib592tcgv21quqk9r54butr53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_FvI7ZTPuBFyGpHb-JSH1rMeDCufrXXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805866613344-ap485o9ib592tcgv21quqk9r54butr53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
